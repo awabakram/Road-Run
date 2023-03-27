@@ -1,2 +1,3 @@
-# Road-Run
- Forgger Clone game made in Python with Tkinter
+# COMP16321-Labs
+
+This is the repository that you submit your labs to.
